@@ -1,4 +1,6 @@
 Row Minima Method
 Column Minima Method
-North West corner Method
-Golden Section
+
+## Done!
+- North West corner Method
+- Golden Section
