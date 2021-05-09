@@ -5,3 +5,5 @@ Done so far-
 - Golden Section
 - North West Coner
 - Johnson's Algo for 2 machines and n jobs
+- Recursion
+- Dynamic programming (WIP) 
