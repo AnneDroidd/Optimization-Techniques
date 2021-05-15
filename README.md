@@ -7,3 +7,4 @@ Done so far-
 - Johnson's Algo for 2 machines and n jobs
 - Recursion
 - Dynamic programming (WIP) 
+- Genetic Algorithm (WIP)
